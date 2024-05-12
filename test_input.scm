@@ -40,6 +40,3 @@
 (car lst)
 (cdr lst)
 
-;; (letrec ((fact (lambda (n) (if (= n 0) 1 (* n (fact (- n 1))))))) (fact 5))
-
-;; (begin (define x 5) (define y 10) (+ x y))
